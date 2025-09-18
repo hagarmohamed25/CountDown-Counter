@@ -28,7 +28,7 @@ This script only requires:
 
 ---
 
-##⚙️ Options
+## ⚙️ Options
 
 - `-m` : Number of minutes
 
@@ -39,7 +39,7 @@ If only one is provided, the timer will still work (e.g., ./timer.sh -s 45).
 
 ---
 
-##🔒 Notes
+## 🔒 Notes
 
 - The script always converts minutes and seconds into total seconds.
 
